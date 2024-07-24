@@ -27,4 +27,5 @@ Identify the best promotion based on statistical analysis.
 # Conclusion (key question)
 Based on the statistical analysis, Promotion 1 is the most effective in terms of median sales and overall performance. Promotion 2 consistently underperforms across various metrics. Promotion 3 shows higher variability and performs well in large markets but does not significantly outperform Promotion 1.
 
-# Recommendation: The fast-food chain should adopt Promotion 1 as it demonstrates the highest and most consistent sales performance.
+# Recommendation
+The fast-food chain should adopt Promotion 1 as it demonstrates the highest and most consistent sales performance.
